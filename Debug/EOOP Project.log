@@ -1,0 +1,3 @@
+﻿  ZooInterface.cpp
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: unresolved external symbol _WinMain@16 referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\01147633\Documents\Politechnika\EOOP\Project\Debug\EOOP Project.exe : fatal error LNK1120: 1 unresolved externals
